@@ -10,6 +10,7 @@ public class Mursid {
 		System.out.println("Ahmed");
 		for(int i = 0; i<10; i++){
 			System.out.println("Mursid is a good boy");
+			System.out.println("Muktar is my brother");
 		}
 
 	}
